@@ -1,7 +1,7 @@
 name: knight_toast_plugin
-description: A new Flutter plugin project.
+description: 一个flutte调用native plugin.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Gensun/knight_toast_plugin
 
 environment:
   sdk: '>=2.19.4 <3.0.0'

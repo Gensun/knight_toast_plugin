@@ -13,7 +13,6 @@ class MockKnightToastPluginPlatform
   
   @override
   Future<bool> showToast(Map<dynamic, dynamic> argument) {
-    // TODO: implement showToast
     throw UnimplementedError();
   }
 }

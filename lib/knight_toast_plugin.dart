@@ -1,8 +1,8 @@
 import 'knight_toast_plugin_platform_interface.dart';
 
 enum Duration{
-  length_short,
-  length_long
+  lengthShort,
+  lengthLong
 }
 
 class KnightToastPlugin {

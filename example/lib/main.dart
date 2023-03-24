@@ -48,7 +48,7 @@ class _MyAppState extends State<MyApp> {
   }
 
   _showToast() {
-    KnightToastPlugin.showToast("吐司出来~", Duration.length_short);
+    KnightToastPlugin.showToast("吐司出来~", Duration.lengthLong);
   }
 
   @override
